@@ -1,66 +1,57 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "imagebaseurl":"https://github.com/dorcelyc",
+    "name": "Christmead Dorcely",
+    "role": "Student",
+    "linkedinId":"Christmead Dorcely",
+    "roleDescription": "I like dabbling in various parts of computer programming and learning about how technology is changing Healthcare and Media.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/christmead-d-836069101/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/christmeaddorcely",
           "className":"fa fa-github"
-        },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them. I am currently a third year student at Queens College studying Psychology and Computer Science.",
+    "address":"USA",
+    "website":"https://dorcelyc.github.io",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
+        "UniversityName":"CUNY Queens College",
         "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
+        "MonthOfPassing":"May",
         "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "Achievements":"Member of National Society of Leadership and Success, Member of Psi Chi."
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"CUNY Tutor Core",
+        "specialization":"Math Tutor",
+        "MonthOfLeaving":"May",
+        "YearOfLeaving":"2019"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
+        "CompanyName":"Group Nine Media",
+        "specialization":"Intern",
         "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "YearOfLeaving":"2019"
+      },
+      {
+        "CompanyName":"Camp Jacobson",
+        "specialization":"Camp Counselor",
+        "MonthOfLeaving":"Aug",
+        "YearOfLeaving":"2017"
       }
     ],
     "skillsDescription":"Your skills here",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"Microsoft Applications (Excel, Word, PowerPoint)"
       },
       {
         "skillname":"CSS"
@@ -82,7 +73,7 @@ let resumeData = {
       },
       {
         "name":"project3",
-        "description":"mobileapp",  
+        "description":"mobileapp",
         "imgurl":"images/portfolio/project2.png"
       },
       {
@@ -101,6 +92,6 @@ let resumeData = {
         "name":"Some technical guy"
       }
     ]
-  }
-  
-  export default resumeData
+   }
+ 
+ export default resumeData
